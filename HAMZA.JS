@@ -1,0 +1,1 @@
+alert[This a websit of all gamming informaction]
